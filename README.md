@@ -7,8 +7,6 @@
 # ICONS PROVIDED BY
 - https://ionic.io/ionicons
 
-# Description
-
 # Discord Server
 - https://discord.gg/r6xHQYuZ8q
 
