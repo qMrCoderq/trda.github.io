@@ -2,6 +2,9 @@
 #### WEBSITE LINK
 ##### - https://qmrcoderq.github.io/trda.github.io/
 
+#### ICONS PROVIDED BY
+##### - https://ionic.io/ionicons
+
 # Description
 
 #### Discord Server
