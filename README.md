@@ -1,5 +1,5 @@
-# trda.github.io
-#### WEBSITE LINK
+# TDA Website
+#### Website Link
 ##### - https://qmrcoderq.github.io/trda.github.io/
 
 #### ICONS PROVIDED BY
@@ -10,5 +10,5 @@
 #### Discord Server
 ##### - https://discord.gg/r6xHQYuZ8q
 
-## What this website is for
-This website is owned by TRDA (the roblox development academy).
+## What is this project?
+This website is owned by TRDA.
