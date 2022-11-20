@@ -1,15 +1,60 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-<title>Home</title>
-<link rel = "icon" type = "image/png" href = "/icon.png">
-<!-- For apple devices -->
-<link rel = "apple-touch-icon" type = "image/png" href = "/icon.png"/>
+    <title>Home</title>
+    <style>
+        .button {
+            display: inline-flex;
+            height: 60px;
+            width: 180;
+            padding: 0;
+            background: #009578;
+            border: none;
+            outline: none;
+            border-radius: 5px;
+            overflow: hidden;
+            font-family: 'Quicksand', sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background: #005443;
+        }
+
+        .button:active {
+            background: #002b23;
+        }
+
+        .button__text,
+        .button__icon {
+            display: inline-flex;
+            align-items: center;
+            padding: 0 24px;
+            color: white;
+            height: 60px;
+        }
+
+        .button__icon {
+            font-size: 1.5em;
+        }
+
+    </style>
 </head>
 <body>
 
-<h1>My test Heading</h1>
-<p>My test paragraph.</p>
-
+    <h1>My test Heading</h1>
+    <p>My test paragraph.</p>
+    <a href="https://www.google.com" target="_blank">
+    <button type='button' class='button' onclick="">
+        <span class="button__text">Contact Us</span>
+        <span class="button__text">
+            <ion-icon name="chatbox-ellipses-outline"></ion-icon>
+        </span>
+    </button>
+    </a>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>
 </html> 
